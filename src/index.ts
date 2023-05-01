@@ -19,7 +19,6 @@ const getBusiness = async (maxResults: number, resultFrom: number, streetAddress
         }
         return datasUrls
     } catch (error) {
-        console.error(error)
         throw error
     }
 }
