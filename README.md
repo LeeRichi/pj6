@@ -7,7 +7,9 @@
 1. typescript
 
 ## Result
-![alt text](resultImage.png)
+<img width="893" alt="Screen Shot 2023-04-27 at 10 13 50 AM" src="https://user-images.githubusercontent.com/86901868/235539153-1e42592b-fa38-407d-8edd-efd057945e16.png">
+
+
 
 ## Instructure
 1. clone the app: https://github.com/LeeRichi/fs15_6-TypeScript-prh-endpoint.git
